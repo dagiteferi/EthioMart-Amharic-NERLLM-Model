@@ -1,3 +1,4 @@
 data/
 week-5/
 .env
+scripts/__pycache__
